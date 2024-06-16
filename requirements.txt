@@ -1,0 +1,9 @@
+# google-generativeai
+langchain
+langchain-google-genai
+streamlit
+python-dotenv
+PyPDF2
+ipykernel
+
+-e .
