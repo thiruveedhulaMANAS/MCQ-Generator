@@ -1,6 +1,0 @@
-langchain
-langchain_google_genai
-streamlit
-langchain_community
-python-dotenv
-PyPDF2
