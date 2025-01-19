@@ -10,7 +10,7 @@ from src.few_show_prompt import mcq_prompt
 load_dotenv()
 
 # Reading API KEY
-GOOGLE_API_KEY = "AIzaSyAeDbOpmz4MAhBVFx3UELiYj0MRz5fK2ow"
+GOOGLE_API_KEY = ""
 logging.info(f'GOOGLE API KEY is {GOOGLE_API_KEY}')
 
 @st.cache_resource
